@@ -1,34 +1,34 @@
-# AWS Certified Security – Specialty [Video]
-This is the code repository for [AWS Certified Security – Specialty](https://www.packtpub.com/cloud-networking/aws-certified-security-specialty-video), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the video course from start to finish.
+# Hands-On Computer Vision with PyTorch 1.x [Video]
+This is the code repository for [Hands-On Computer Vision with PyTorch 1.x](https://www.packtpub.com/data/hands-on-computer-vision-with-pytorch-1-x-video). It contains all the supporting project files necessary to work through the video course from start to finish.
 ## About the Video Course
-This course will get you ready to control access to your AWS resources granularly. You will develop the skills to pass the exam for the Security Solutions certification.	
+This course is your one-stop, hands-on guide to applying computer vision to your projects using PyTorch. You'll learn to create and deploy your own models and develop the intuition to work on real-world projects.		
 
 <H2>What You Will Learn</H2>
 <DIV class=book-info-will-learn-text>
 <UL>
-<LI>Get familiar with specialized data classifications and AWS data protection mechanisms
-<LI>Understand data-encryption methods and use AWS mechanisms to implement them
-<LI>Secure internet protocols and use AWS mechanisms to implement them
-<LI>Master AWS security services and their features to provide a secure production environment
-<LI>Gain production deployment experience using AWS security services and features
-<LI>Take into consideration the cost of different security features and the overall impact on architectures in terms of complexity	 </LI></UL></DIV>
+<LI>Go from a beginner in the field of computer vision to an advanced practitioner with real-world insights
+<LI>Take advantage of PyTorch's functionalities such as tensors, dynamic graphs, auto-differentiation, and more
+<LI>Explore various computer-vision sub-topics, such as Conv nets, ResNets, Neural Style Transfer, data augmentation, and more
+<LI>Build state-of-the-art, industrial image classification algorithms
+<LI>Effortlessly split, augment, and draw conclusions from datasets
+<LI>Extract information effortlessly from groundbreaking research papers</LI></UL></DIV>
 
 ## Instructions and Navigation
 ### Assumed Knowledge
 To fully benefit from the coverage included in this course, you will need:<br/>
-Prior knowledge of security controls for workloads on AWS (and IT security experience in designing and implementing security solutions) is assumed. Familiarity with AWS will be beneficial.
+A basic knowledge of machine learning will help you understand the necessary concepts but isn't mandatory. A basic understanding of calculus and linear algebra; some experience using Python.
 
 ### Technical Requirements
 This course has the following software requirements:<br/>
-<UL><LI>Operating system: None
+<UL><LI>Operating system: windows 10
 <LI>Browser: Chrome, Firefox or IE
-<LI>SSH Client: Putty and Puttygen for Windows
-<LI>RDP Client – RDP Client for Mac</LI></UL>
+<LI>SSH VS Code IDE, Latest Version
+<LI>Python 3.7 installed</LI></UL>
 
 ## Related Products
-* [AWS Essentials and Solutions Architect Associate: The Total Course [Video]](https://www.packtpub.com/cloud-networking/aws-essentials-and-solutions-architect-associate-the-total-course-video)
+* [PyTorch Artificial Intelligence Fundamentals [Video]](https://www.packtpub.com/data/pytorch-1-x-artificial-intelligence-cookbook)
 
-* [AWS Certified Developer Associate - A Practical Guide [Video]](https://www.packtpub.com/application-development/aws-certified-developer-associate-practical-guide-video)
+* [Hands-On Generative Adversarial Networks with PyTorch 1.x](https://www.packtpub.com/data/hands-on-generative-adversarial-networks-with-pytorch-1-0)
 
-* [AWS Certified Solution Architect Professional - Revision Guide [Video]](packtpub.com/virtualization-and-cloud/aws-certified-solution-architect-professional-revision-guide-video)
+* [Deep Learning with PyTorch 1.x - Second Edition](https://www.packtpub.com/data/deep-learning-with-pytorch-1-0-second-edition)
 
