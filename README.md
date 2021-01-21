@@ -1,8 +1,3 @@
-## $5 Tech Unlocked 2021!
-[Buy and download this Video for only $5 on PacktPub.com](https://www.packtpub.com/product/hands-on-computer-vision-with-pytorch-1-x-video/9781789614077)
------
-*The $5 campaign         runs from __December 15th 2020__ to __January 13th 2021.__*
-
 # Hands-On Computer Vision with PyTorch 1.x [Video]
 This is the code repository for [Hands-On Computer Vision with PyTorch 1.x](https://www.packtpub.com/data/hands-on-computer-vision-with-pytorch-1-x-video). It contains all the supporting project files necessary to work through the video course from start to finish.
 ## About the Video Course
